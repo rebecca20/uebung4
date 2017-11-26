@@ -1,0 +1,27 @@
+Aufgabe 3)
+Aussage 3 ist korrekt, bei einem Interface müssen alle Merkmale die Sichtbarkeint "private" haben.
+
+Aufgabe 4)
+Aussage 4: "An interface may be implemented by at most one classifier, but one classifier may implement multiple interfaces."
+ist korrekt.
+
+Aufgabe 5)
+
+1 = Klasse
+2 = Beschreibung
+3 = Aggregation
+4 = Name der Klasse
+5 = Methoden (?)
+6 = Generalisierung
+7 = Vererbung
+8 = Abschnitt mit Attributen   
+9 = Beziehungen
+10 = Komposition
+11 = Assoziation
+12 = Abschnitt mit Operatoren
+13 = Schlüsselwörter
+
+
+Aufgabe 6)
+Aussage 1 und 3 sind korrekt.
+
